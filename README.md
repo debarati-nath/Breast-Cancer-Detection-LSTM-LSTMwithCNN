@@ -28,5 +28,5 @@ Analyze for every fold-
 
 -ROC curve
 
-References for datasets- 
+Reference for datasets- 
  Online: https://github.com/UManitoba-BMS/UM-BMID
